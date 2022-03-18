@@ -2,4 +2,15 @@
     <string name="app_name">About Me</string>
     <string name="name_text">Lorena Castro</string>
     <string name="yellow_start">yellow_start</string>
+    <string name="bio">Hola, mi nombre es Lorena.
+\n\nTengo el sueño de ser una excelente programadora.
+\n\nSoy psicóloga de profesión y me he aventurado al mundo de la programación.
+\nHe aprendido poco a poco diferentes lenguajes y he usado varios entornos.
+\n\nEn mi camino me he topado con gente maravillosa que ha visto mi potencial más allá de tener o no un título.
+\nEs increible el apoyo que he recibido para continuar, jamás pensé sentirme así de valorada en otro ramo.
+\nLa vida da muchas vueltas y hoy decido estar aquí.
+\n\nEs un área tan grande el de la programación que me gustaría saber de todo pero sé que debo tomar un rumbo.
+\n\nHoy quiero ser desarrodadora móvil y no me cansaré hasta lograrlo.
+\nGracias.\n\n
+    </string>
 </resources>
