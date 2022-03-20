@@ -13,4 +13,8 @@
 \n\nHoy quiero ser desarrodadora móvil y no me cansaré hasta lograrlo.
 \nGracias.\n\n
     </string>
+    <string name="nickname_edit">nickname_edit</string>
+    <string name="cual_es_tu_nombre">¿Cual es tu nombre?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
 </resources>
